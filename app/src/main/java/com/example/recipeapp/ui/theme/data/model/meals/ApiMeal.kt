@@ -1,4 +1,4 @@
-package com.example.recipeapp.ui.theme.data.model
+package com.example.recipeapp.ui.theme.data.model.meals
 
 import java.time.LocalDate
 
