@@ -1,4 +1,4 @@
-package com.example.recipeapp.ui.theme.data.model.categories
+package com.example.recipeapp.data.model.categories
 
 data class ApiCategories(
     val categories: List<ApiCategory>
